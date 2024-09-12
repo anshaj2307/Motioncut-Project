@@ -1,0 +1,1 @@
+# This is the animated login page by using only HTML and CSS
